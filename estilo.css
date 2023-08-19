@@ -1,0 +1,38 @@
+#destaque{ 
+    text-align: center;
+    font-size: medium;
+    background-color: #f1c875
+    ;
+}
+
+body{
+    background-color: #BF8D2C;
+    border-color: #fb6900 solid;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+#caixa {
+    background-color: rgb(239, 215, 80)
+    padding: 10px;
+    border: 2px #fb6900 solid;
+    margin:5% solid color: auto;
+    float::after;
+    
+    }
+
+h3 {
+    text-align:center;
+    padding: 2px;
+    
+}
+
+#box {
+    text-align: center;
+    background-color:#f1c875;
+    text-shadow: 10cap;
+    padding: 5px;
+    border: 11px;
+    margin:5%;
+}
